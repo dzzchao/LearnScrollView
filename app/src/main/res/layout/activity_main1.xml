@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dzzchao.learnscrollview.CustomFramelayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity1">
+
+    <com.dzzchao.learnscrollview.CustomTextView
+        android:id="@+id/tv_some"
+        android:text="helloworld"
+        android:layout_width="200dp"
+        android:background="#3f00"
+        android:layout_height="100dp" />
+
+
+    <com.dzzchao.learnscrollview.CustomButton
+        android:id="@+id/tv_some"
+        android:text="helloworld"
+        android:layout_width="200dp"
+        android:layout_marginTop="200dp"
+        android:background="#3f00"
+        android:layout_height="100dp" />
+
+
+
+</com.dzzchao.learnscrollview.CustomFramelayout>
